@@ -6,7 +6,7 @@ for i in numbers:
     num=int(i)
     if num%2==0:
         even_sum+=num
-print("Sumof of Even numbers:",even_sum)
+print("Sum of Even numbers:",even_sum)
 
 #method 2 for Given input
 def even_sum(numbers):
