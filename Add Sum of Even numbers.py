@@ -8,6 +8,8 @@ for i in numbers:
         even_sum+=num
 print("Sum of Even numbers:",even_sum)
 
+
+
 #method 2 for Given input
 def even_sum(numbers):
     total_num=0
