@@ -9,3 +9,4 @@ def duplicate_word_detctor(string):
 string = input("Enter a string:")
 print("The result:",duplicate_word_detctor(string))
 
+
