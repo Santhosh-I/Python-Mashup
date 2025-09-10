@@ -1,8 +1,7 @@
 import random
 
-Random_guess = random.randint(1,10)
-
 while True:
+    Random_guess = random.randint(1,10)
     print("Your Guessed number is :",Random_guess)
     result = input("Press Y if it is correct or N if it is worng:")
 
