@@ -1,6 +1,6 @@
 import random
 
-random_picker = random.randint(1,5)
+random_picker = random.randint(1,10)
 
 print("Guess a number Between 1 to 10")
 
