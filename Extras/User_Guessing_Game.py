@@ -8,7 +8,7 @@ while True:
     guess = int(input("Enter the guessed number:"))
 
     if guess == random_picker:
-        print("Your guess is correct!")
+        print("Your guess is correct!!")
         break
 
     else:
