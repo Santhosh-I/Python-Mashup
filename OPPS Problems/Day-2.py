@@ -10,4 +10,4 @@ class Calculator:
 
 c = Calculator
 print(c.add(10,5))
-print(c.divide(10,0))
+print(c.divide(10,2))
